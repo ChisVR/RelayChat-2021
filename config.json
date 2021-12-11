@@ -1,0 +1,40 @@
+{
+	"twitch": {
+		"username": "",
+		"oauth": "",
+		"channel": [""],
+		"channelusername": ""
+	},
+	
+	"vimmtv": {
+		"connect": "",
+		"token": ""
+	},
+	
+	"glimesh": {
+		"botUsername": "",
+		"channel": "",
+		"token": "",
+		"clientid": ""
+	},
+	
+	"youtube": {
+		"botChannelID": "",
+		"chatID": "",
+		"apikey": "",
+		"resettoken": ""
+		
+	},
+  
+	"theta": {
+		"username": "",
+		"token": "",
+		"user": "",
+		"channelid": "",
+		"channels": ["chat."],
+		"pubnub": {
+			"uuid": "",
+			"subscribe_key": "" 
+		}
+	}
+}
