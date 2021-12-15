@@ -192,7 +192,7 @@ chat.connect(config.vimmtv.connect).then(meta => {
 
 	chat.on("message", msg => {
 
-		if (msg.prefix == "[bot]") return
+		if (msg.roles[0].bot == true) return
 
 		ttvclient.say(config.twitch.channelusername, `[VIMMTV] ${msg.chatter}: ${msg.message}`);
 					
