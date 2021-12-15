@@ -26,7 +26,7 @@
     "mysql": "^2.18.1",
     "pubnub": "^4.32.1",
     "tmi.js": "^1.8.5",
-    "vimm-chat-lib": "^1.0.2",
+    "vimm-chat-lib": "^1.1.0",
     "winston-daily-rotate-file": "^4.5.5"
   }
 }
