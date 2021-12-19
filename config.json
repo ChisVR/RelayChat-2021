@@ -7,7 +7,7 @@
 	},
 	
 	"vimmtv": {
-		"connect": "",
+		"connect": [""],
 		"token": ""
 	},
 	
